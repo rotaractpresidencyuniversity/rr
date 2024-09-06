@@ -2,6 +2,7 @@ body {
     background-image: url('installa.jpeg');
     background-attachment: fixed;
     backface-visibility: visible;
+     background-repeat: no-repeat;
 
 }
 
