@@ -1,0 +1,54 @@
+body {
+    background-image: url('installa.jpeg');
+    background-attachment: fixed;
+    backface-visibility: visible;
+
+}
+
+.marquee {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.image {
+    width: 380px;
+    height: 130px;
+    padding-left: 8%;
+    margin-top: 3%;
+}
+
+.li {
+    list-style-type: none;
+
+}
+
+
+.nav {
+
+    list-style-type: none;
+    overflow: hidden;
+    padding-left: 3%;
+}
+
+.p1 {
+    font-size: 20px;
+}
+
+.nav a {
+    text-decoration: none;
+    padding: 4px;
+    display: block;
+    text-align: center;
+    color: black;
+}
+
+.nav a:hover {
+    background-color: rgb(233, 212, 212);
+}
+
+.nav li {
+    float: left;
+    list-style-type: none;
+    padding: 4px;
+
+}
