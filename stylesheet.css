@@ -67,6 +67,10 @@ a:hover {
     padding-top: 5%;
 }
 
+.marquee1 {
+    height: 130px;
+}
+
 .foot {
     background-color: rgba(0, 0, 0, 0.6);
     margin-bottom: 0%;
