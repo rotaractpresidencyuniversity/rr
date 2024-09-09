@@ -95,5 +95,8 @@ a:hover {
         background-color: black;
        padding :0%
     }
+    .marquee1 {
+    height: 100px;
+}
 
 }
