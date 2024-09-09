@@ -34,17 +34,14 @@ body {
     background-color: rgba(0, 0, 0, 0.6);
 }
 
-.p1 {
-    
-    color: whitesmoke;
-}
+
 
 .nav a {
     text-decoration: none;
     padding: 4px;
     display: block;
     text-align: center;
-    color: black;
+    color:white;
 }
 
 .nav a:hover {
