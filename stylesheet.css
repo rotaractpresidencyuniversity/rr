@@ -67,5 +67,7 @@ a:hover {
         height: 400px;
     }
     .image{
-        width:200px;}
+        width:200px;
+    height:100px;
+    }
 }
