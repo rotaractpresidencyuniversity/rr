@@ -82,7 +82,11 @@ a:hover {
     color: white;
     padding: 4px;
 }
-
+.lead {
+    text-align: center;
+    background-color: white;
+    padding: 0%;
+}
 @media screen and (max-width:600px) {
     .nav a {
         font-size: 10px;
